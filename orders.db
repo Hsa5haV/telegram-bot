@@ -1,0 +1,36 @@
+import sqlite3
+
+conn = sqlite3.connect('clothing.db')
+cursor = conn.cursor()
+
+def create_clothing_table():
+    cursor.execute('''
+        CREATE TABLE IF NOT EXISTS clothing (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            category TEXT,
+            subcategory TEXT,
+            option TEXT,
+            price REAL
+        )
+    ''')
+    conn.commit()
+
+def insert_clothing_data(category, subcategory, option, price):
+    cursor.execute('''
+        INSERT INTO clothing (category, subcategory, option, price)
+        VALUES (?, ?, ?, ?)
+    ''', (category, subcategory, option, price))
+    conn.commit()
+
+# Створення таблиці і додавання декількох записів
+create_clothing_table()
+
+insert_clothing_data('Одяг', 'Футболки', 'Опція 1', 20.99)
+insert_clothing_data('Одяг', 'Футболки', 'Опція 2', 25.99)
+insert_clothing_data('Одяг', 'Джинси', 'Опція 1', 39.99)
+insert_clothing_data('Одяг', 'Джинси', 'Опція 2', 45.99)
+insert_clothing_data('Одяг', 'Пальта', 'Опція 1', 99.99)
+insert_clothing_data('Одяг', 'Пальта', 'Опція 2', 120.99)
+
+# Закриття з'єднання з базою даних
+conn.close()

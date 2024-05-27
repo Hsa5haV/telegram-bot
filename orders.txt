@@ -1,0 +1,256 @@
+User ID: 1051951362
+Order Number: ae91aa96-b42f-45c8-a6cf-1905ea6064e1
+Category: clothing
+Subcategory: tshirts
+Product and price: mortal combat | 30$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: b5e24820-8950-416f-ad8b-62a5204dfd53
+Category: clothing
+Subcategory: tshirts
+Product and price: mortal combat | 30$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 5e2a4784-b77d-4d93-9c0b-907c0cac7463
+Category: clothing
+Subcategory: tshirts
+Product and price: mortal combat | 30$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 3fb41d76-cf9c-4bca-9154-138e79ed44f9
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 6dc26a43-c3ae-4529-ab1c-f91fd6271737
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 5afad983-52d2-4eab-8892-683bca56a321
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 26cdb298-b73e-4d5c-afbe-c2070b541cda
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: caa70fca-7492-4301-a628-92abe848a37a
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 5b63fd5d-7775-4e8c-9470-e463852f152f
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: 5b63fd5d-7775-4e8c-9470-e463852f152f
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: ab96774f-14e0-4c94-8973-27f8937b5965
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: b86bfbb6-803d-4eb0-947f-513662f8d3fd
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: In the way
+
+User ID: 1051951362
+Order Number: d1c61366-f185-4e25-b4f2-31c11c88979e
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 6118514c-d42a-4914-b05c-06b32f796d36
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: pickup
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: e5fbbbf0-cbcd-4b66-aac5-779a297bf7b5
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 9005eff8-404f-4ec9-b5fa-6423fde8ce4c
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 7e0b4935-b679-4337-b600-7c72d037167f
+Category: clothing
+Subcategory: tshirts
+Product and price: mortal combat | 30$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 24492978-eadd-40e4-8e8e-ef4f973c86a7
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: e43b08af-5b7f-4ead-ae5c-f832d3a3d465
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: pickup
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: df02bd56-2803-4ff9-a44d-2478430765e2
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 384ffb8c-74a1-40ef-b766-42ddd9a50c6f
+Category: book
+Subcategory: horror
+Product and price: alisa in wonderland | 7$
+Delivery Method: courier
+Order Status: delivered
+
+User ID: 1051951362
+Order Number: 10d7a59f-2982-494f-ac77-97da5150cfdd
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: 949f8377-a374-455e-888f-bda7f806db12
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: bd6be938-4fa9-48e6-8229-6a2de825bc1a
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: 87b7f2ea-45c2-49ae-8dcc-3646301c0b78
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: pickup
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: 7938e427-1063-48ce-954e-bf1b3eac0273
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: pickup
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: f804b19d-867b-412e-a5f9-34434f850bda
+Category: clothing
+Subcategory: tshirts
+Product and price: rick and morty | 20$
+Delivery Method: courier
+Order Status: Processing
+
+User ID: 1051951362
+Order Number: 5ed786a5-6572-488f-8088-3a01f2e42793
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: Processing
+
+User ID: 1051951362
+Order Number: 9b554315-6b03-459a-a133-6e38ccb58320
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: Processing
+
+User ID: 1051951362
+Order Number: 7022daa3-efe8-45cf-8354-1f71fbf69079
+Category: book
+Subcategory: horror
+Product and price: Stiven king automatic edition | 5$
+Delivery Method: courier
+Order Status: Delivered
+
+User ID: 5287853436
+Order Number: 2dc9c5df-4de5-4f26-8c7e-36e3ff2b3ebe
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: courier
+Order Status: Delivered
+
+User ID: 1051951362
+Order Number: adcb8a0a-7898-4b3c-924d-84b056923997
+Category: clothing
+Subcategory: tshirts
+Product and price: american boy | 50$
+Delivery Method: pickup
+Order Status: Delivered
+

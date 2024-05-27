@@ -1,0 +1,20 @@
+import sqlite3
+
+# Підключення до бази даних (буде створено, якщо не існує)
+conn = sqlite3.connect('mydatabase.db')
+
+# Створення курсора для взаємодії з базою даних
+cursor = conn.cursor()
+
+# Створення таблиці
+cursor.execute('''
+    CREATE TABLE IF NOT EXISTS users (
+        id INTEGER PRIMARY KEY,
+        username TEXT,
+        email TEXT
+    )
+''')
+
+# Збереження змін і закриття підключення
+conn.commit()
+conn.close()
